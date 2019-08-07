@@ -19,7 +19,7 @@ namespace mta_1._1._5_windows_form
 
         private void Button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("My First Message", "Message",MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
         }
     }
 }
