@@ -16,5 +16,15 @@ namespace mta_1._1_variables_numbers_from_text_boxes
         {
             InitializeComponent();
         }
+
+        private void BtnAnswer_Click(object sender, EventArgs e)
+        {
+            int firstTextBoxNumber;
+            int answer;
+
+            firstTextBoxNumber = int.Parse(tbFirstNumber.Text);
+
+            MessageBox.Show(firstTextBoxNumber.ToString());
+        }
     }
 }
