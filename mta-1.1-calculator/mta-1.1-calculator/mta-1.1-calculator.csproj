@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FFD48782-399A-4506-BBF6-99ED4F510E14}</ProjectGuid>
+    <ProjectGuid>{7330DBBC-4999-4C14-AA12-D5CC2B71E374}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>mta_1._1_variables_numbers_from_text_boxes</RootNamespace>
-    <AssemblyName>mta-1.1-variables-numbers-from-text-boxes</AssemblyName>
+    <RootNamespace>mta_1._1_calculator</RootNamespace>
+    <AssemblyName>mta-1.1-calculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

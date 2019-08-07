@@ -1,0 +1,10 @@
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\bin\Debug\mta-1.1-calculator.exe.config
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\bin\Debug\mta-1.1-calculator.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\bin\Debug\mta-1.1-calculator.pdb
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta-1.1-calculator.csprojAssemblyReference.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta_1._1_calculator.Form1.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta_1._1_calculator.Properties.Resources.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta-1.1-calculator.csproj.GenerateResource.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta-1.1-calculator.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta-1.1-calculator.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.1-calculator\mta-1.1-calculator\obj\Debug\mta-1.1-calculator.pdb

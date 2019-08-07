@@ -20,11 +20,14 @@ namespace mta_1._1_variables_numbers_from_text_boxes
         private void BtnAnswer_Click(object sender, EventArgs e)
         {
             int firstTextBoxNumber;
-            int answer;
+            int secondTextBoxNumber;
 
             firstTextBoxNumber = int.Parse(tbFirstNumber.Text);
+            secondTextBoxNumber = int.Parse(tbSecondNumber.Text);
 
-            MessageBox.Show(firstTextBoxNumber.ToString());
+            int answer = firstTextBoxNumber + secondTextBoxNumber;
+
+            MessageBox.Show(answer.ToString());
         }
     }
 }
