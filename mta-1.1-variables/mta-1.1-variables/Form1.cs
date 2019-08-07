@@ -25,7 +25,11 @@ namespace mta_1._1_variables
             messageText = "Your Name Is: ";
 
             firstName = textBox1.Text;
-            MessageBox.Show(messageText + firstName);
+
+            textBox2.Text = messageText + firstName;
+            TextMessage.Text = messageText + firstName;
+
+            //MessageBox.Show(messageText + firstName);
 
             /*
             firstName = textBox1.Text;
@@ -36,6 +40,16 @@ namespace mta_1._1_variables
         }
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextMessage_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

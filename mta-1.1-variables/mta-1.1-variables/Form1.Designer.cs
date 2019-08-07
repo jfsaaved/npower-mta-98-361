@@ -31,6 +31,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.TextMessage = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -60,11 +62,31 @@
             this.textBox1.TabIndex = 2;
             this.textBox1.TextChanged += new System.EventHandler(this.TextBox1_TextChanged);
             // 
+            // TextMessage
+            // 
+            this.TextMessage.AutoSize = true;
+            this.TextMessage.Location = new System.Drawing.Point(87, 126);
+            this.TextMessage.Name = "TextMessage";
+            this.TextMessage.Size = new System.Drawing.Size(75, 13);
+            this.TextMessage.TabIndex = 3;
+            this.TextMessage.Text = "Message Area";
+            this.TextMessage.Click += new System.EventHandler(this.TextMessage_Click);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(90, 87);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 20);
+            this.textBox2.TabIndex = 4;
+            this.textBox2.TextChanged += new System.EventHandler(this.TextBox2_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.TextMessage);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
@@ -80,6 +102,8 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label TextMessage;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
 
