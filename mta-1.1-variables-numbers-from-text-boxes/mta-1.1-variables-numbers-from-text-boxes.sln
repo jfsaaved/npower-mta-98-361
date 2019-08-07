@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mta-1.1-variables-numbers-from-text-boxes", "mta-1.1-variables-numbers-from-text-boxes\mta-1.1-variables-numbers-from-text-boxes.csproj", "{FFD48782-399A-4506-BBF6-99ED4F510E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD48782-399A-4506-BBF6-99ED4F510E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD48782-399A-4506-BBF6-99ED4F510E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD48782-399A-4506-BBF6-99ED4F510E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD48782-399A-4506-BBF6-99ED4F510E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEF1313-03C7-4112-B5A2-3381B1E1B2C1}
+	EndGlobalSection
+EndGlobal

@@ -59,6 +59,14 @@ namespace mta_1._1_variables_arithmetic
             answerSubtract = 50 - numberOne - numberTwo;
 
             MessageBox.Show(answerSubtract.ToString());
+
+
+
+            /*
+             * 
+             * 
+             * Skipping all the other operators 
+             */
         }
     }
 }
