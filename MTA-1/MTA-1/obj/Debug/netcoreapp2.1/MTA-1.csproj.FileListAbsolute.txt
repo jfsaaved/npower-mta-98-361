@@ -1,0 +1,11 @@
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\bin\Debug\netcoreapp2.1\MTA-1.deps.json
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\bin\Debug\netcoreapp2.1\MTA-1.runtimeconfig.json
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\bin\Debug\netcoreapp2.1\MTA-1.runtimeconfig.dev.json
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\bin\Debug\netcoreapp2.1\MTA-1.dll
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\bin\Debug\netcoreapp2.1\MTA-1.pdb
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\obj\Debug\netcoreapp2.1\MTA-1.csprojAssemblyReference.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\obj\Debug\netcoreapp2.1\MTA-1.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\obj\Debug\netcoreapp2.1\MTA-1.AssemblyInfoInputs.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\obj\Debug\netcoreapp2.1\MTA-1.AssemblyInfo.cs
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\obj\Debug\netcoreapp2.1\MTA-1.dll
+C:\Users\DeKobe\Desktop\MTA-Repos\MTA-1\MTA-1\obj\Debug\netcoreapp2.1\MTA-1.pdb
