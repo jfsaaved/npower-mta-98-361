@@ -16,5 +16,20 @@ namespace mta_1._1_variables
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            string firstName;
+            firstName = textBox1.Text;
+            MessageBox.Show(firstName);
+
+            firstName = "Home and Learn";
+            MessageBox.Show(firstName);
+        }
+
+        private void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
