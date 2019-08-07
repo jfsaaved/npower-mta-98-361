@@ -16,5 +16,10 @@ namespace mta_1._1._5_windows_form
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
