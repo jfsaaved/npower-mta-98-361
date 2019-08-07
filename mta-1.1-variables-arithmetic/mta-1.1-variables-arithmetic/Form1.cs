@@ -30,5 +30,35 @@ namespace mta_1._1_variables_arithmetic
 
             MessageBox.Show(integerAnswer.ToString());
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            float firstNumber;
+            float secondNumber;
+            float floatAnswer;
+            int someInteger = 20;
+
+            firstNumber = 10.5F;
+            secondNumber = 32.5F;
+
+            floatAnswer = firstNumber + secondNumber + someInteger;
+
+            MessageBox.Show(floatAnswer.ToString());
+        }
+
+        private void BtnSubtract_Click(object sender, EventArgs e)
+        {
+            int answerSubtract;
+            int numberOne = 12;
+            int numberTwo = 4;
+
+            answerSubtract = 50 - 25;
+
+            MessageBox.Show(answerSubtract.ToString());
+
+            answerSubtract = 50 - numberOne - numberTwo;
+
+            MessageBox.Show(answerSubtract.ToString());
+        }
     }
 }
