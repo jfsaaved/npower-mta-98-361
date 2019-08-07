@@ -16,6 +16,14 @@ namespace MTA_1
 
             Console.WriteLine(15 % 6);
 
+
+            x = 4;
+            y = 9;
+
+            x = (y % x != 0) ? y / x : y;
+
+            Console.WriteLine(x);
+
         }
     }
 }

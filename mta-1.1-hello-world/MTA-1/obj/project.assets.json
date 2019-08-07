@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DeKobe\\Desktop\\MTA-Repos\\MTA-1\\MTA-1\\MTA-1.csproj",
+      "projectUniqueName": "C:\\Users\\DeKobe\\Desktop\\MTA-Repos\\mta-1.1-hello-world\\MTA-1\\MTA-1.csproj",
       "projectName": "MTA-1",
-      "projectPath": "C:\\Users\\DeKobe\\Desktop\\MTA-Repos\\MTA-1\\MTA-1\\MTA-1.csproj",
+      "projectPath": "C:\\Users\\DeKobe\\Desktop\\MTA-Repos\\mta-1.1-hello-world\\MTA-1\\MTA-1.csproj",
       "packagesPath": "C:\\Users\\DeKobe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DeKobe\\Desktop\\MTA-Repos\\MTA-1\\MTA-1\\obj\\",
+      "outputPath": "C:\\Users\\DeKobe\\Desktop\\MTA-Repos\\mta-1.1-hello-world\\MTA-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
