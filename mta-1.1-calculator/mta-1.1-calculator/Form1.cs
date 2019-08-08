@@ -20,6 +20,9 @@ namespace mta_1._1_calculator
         bool minusButtonClicked = false;
         bool divideButtonClicked = false;
         bool multipleButtonClicked = false;
+        char theOperator;
+
+
         public Form1()
         {
             InitializeComponent();
@@ -104,15 +107,20 @@ namespace mta_1._1_calculator
             total1 = total1 + double.Parse(txtDisplay.Text);
             txtDisplay.Clear();
 
+            theOperator = '+';
+            /*
             minusButtonClicked = false;
             plusButtonClicked = true;
             divideButtonClicked = false;
-            multipleButtonClicked = false;
+            multipleButtonClicked = false;*/
 
         }
 
         private void BtnEquals_Click(object sender, EventArgs e)
         {
+
+
+            /*
             if (plusButtonClicked == true)
             {
                 total2 = total1 + double.Parse(txtDisplay.Text);
@@ -128,6 +136,22 @@ namespace mta_1._1_calculator
             else if (divideButtonClicked == true)
             {
                 total2 = total1 / double.Parse(txtDisplay.Text);
+            }*/
+
+            switch (theOperator)
+            {
+                case '+':
+                    total2 = total1 + double.Parse(txtDisplay.Text);
+                    break;
+                case '-':
+                    total2 = total1 - double.Parse(txtDisplay.Text);
+                    break;
+                case '*':
+                    total2 = total1 * double.Parse(txtDisplay.Text);
+                    break;
+                case '/':
+                    total2 = total1 / double.Parse(txtDisplay.Text);
+                    break;
             }
 
             txtDisplay.Text = total2.ToString();
@@ -139,10 +163,12 @@ namespace mta_1._1_calculator
             total1 = total1 + double.Parse(txtDisplay.Text);
             txtDisplay.Clear();
 
+            theOperator = '-';
+            /*
             minusButtonClicked = true;
             plusButtonClicked = false;
             divideButtonClicked = false;
-            multipleButtonClicked = false;
+            multipleButtonClicked = false;*/
         }
 
         private void Button1_Click_1(object sender, EventArgs e)
@@ -150,10 +176,12 @@ namespace mta_1._1_calculator
             total1 = total1 + double.Parse(txtDisplay.Text);
             txtDisplay.Clear();
 
+            theOperator = '*';
+            /*
             minusButtonClicked = false;
             plusButtonClicked = false;
             divideButtonClicked = false;
-            multipleButtonClicked = true;
+            multipleButtonClicked = true;*/
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -161,10 +189,12 @@ namespace mta_1._1_calculator
             total1 = total1 + double.Parse(txtDisplay.Text);
             txtDisplay.Clear();
 
+            theOperator = '/';
+            /*
             minusButtonClicked = false;
             plusButtonClicked = false;
             divideButtonClicked = true;
-            multipleButtonClicked = false;
+            multipleButtonClicked = false;*/
         }
     }
 }
