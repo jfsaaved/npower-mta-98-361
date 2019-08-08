@@ -1,0 +1,10 @@
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\bin\Debug\mta-1.3-loops.exe.config
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\bin\Debug\mta-1.3-loops.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\bin\Debug\mta-1.3-loops.pdb
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta-1.3-loops.csprojAssemblyReference.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta_1._3_loops.Form1.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta_1._3_loops.Properties.Resources.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta-1.3-loops.csproj.GenerateResource.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta-1.3-loops.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta-1.3-loops.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-1.3-loops\mta-1.3-loops\obj\Debug\mta-1.3-loops.pdb
