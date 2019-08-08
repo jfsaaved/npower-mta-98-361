@@ -27,25 +27,51 @@ namespace mta_1._3_loops
 
             listBox1.Items.Clear();
 
-            loopStart = int.Parse(textBox1.Text);
-            loopEnd = int.Parse(textBox2.Text);
-            multiplyBy = int.Parse(textBox3.Text);
-
-            /*
-            for (int i = loopStart; i < loopEnd + 1; i++) // or <= loopEnd
+            int outputVal = 0;
+            if(int.TryParse(textBox1.Text, out outputVal) == false || int.TryParse(textBox2.Text, out outputVal) == false || int.TryParse(textBox3.Text, out outputVal) == false)
             {
-                answer = answer + i;
-                listBox1.Items.Add("i = " + i + " answer = " + answer.ToString());
-            }*/
-
-            for(int i = loopStart; i <= loopEnd; i++)
+                MessageBox.Show("Invalid numbers");
+            } else
             {
-                answer = multiplyBy * i;
-                listBox1.Items.Add(i.ToString() + " times " + multiplyBy.ToString() + " = " + answer.ToString());
-            }
 
 
             
+                loopStart = int.Parse(textBox1.Text);
+                loopEnd = int.Parse(textBox2.Text);
+                multiplyBy = int.Parse(textBox3.Text);
+
+                /*
+                for (int i = loopStart; i < loopEnd + 1; i++) // or <= loopEnd
+                {
+                    answer = answer + i;
+                    listBox1.Items.Add("i = " + i + " answer = " + answer.ToString());
+                }*/
+
+
+                for(int i = loopStart; i <= loopEnd; i++)
+                {
+                    answer = multiplyBy * i;
+                    listBox1.Items.Add(i.ToString() + " times " + multiplyBy.ToString() + " = " + answer.ToString());
+                }
+
+                /*
+                int i = 0;
+                while(i <= loopEnd)
+                {
+                    answer = multiplyBy * i;
+                    listBox1.Items.Add(i.ToString() + " times " + multiplyBy.ToString() + " = " + answer.ToString());
+                    i++;
+                }
+
+                do
+                {
+                    answer = multiplyBy * if;
+                    listBox1.Items.Add(i.ToString() + " times " + multiplyBy.ToString() + " = " + answer.ToString());
+                    i++;
+                } while (i <= loopEnd);
+                */
+            }
+
         }
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
