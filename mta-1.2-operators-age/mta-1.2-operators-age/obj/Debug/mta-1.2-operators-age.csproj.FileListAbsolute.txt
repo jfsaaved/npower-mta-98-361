@@ -1,0 +1,10 @@
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta-1.2-operators-age.csprojAssemblyReference.cache
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta_1._2_operators_age.Form1.resources
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta_1._2_operators_age.Properties.Resources.resources
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta-1.2-operators-age.csproj.GenerateResource.cache
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta-1.2-operators-age.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\bin\Debug\mta-1.2-operators-age.exe.config
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\bin\Debug\mta-1.2-operators-age.exe
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\bin\Debug\mta-1.2-operators-age.pdb
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta-1.2-operators-age.exe
+C:\Users\DeKobe\source\repos\mta-1.2-operators-age\mta-1.2-operators-age\obj\Debug\mta-1.2-operators-age.pdb
