@@ -16,5 +16,16 @@ namespace mta_1._2_conditions
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            bool buttonClicked = true;
+            if (buttonClicked == true) {
+                MessageBox.Show("The boolean is true");
+            } else
+            {
+                MessageBox.Show("The boolean is false");
+            }
+        }
     }
 }
