@@ -16,5 +16,12 @@ namespace mta_1._2_classes_and_object_first_class
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            HappyBirthday birthdayMessage;
+            birthdayMessage = new HappyBirthday();
+            MessageBox.Show(birthdayMessage.getMessage());
+        }
     }
 }
