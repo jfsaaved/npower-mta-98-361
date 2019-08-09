@@ -21,7 +21,12 @@ namespace mta_1._2_classes_and_object_first_class
         {
             HappyBirthday birthdayMessage;
             birthdayMessage = new HappyBirthday();
-            MessageBox.Show(birthdayMessage.getMessage());
+
+            String returnMessage;
+            birthdayMessage.MyProperty = "Julian";
+            returnMessage = birthdayMessage.MyProperty;
+            MessageBox.Show(returnMessage);
+            //MessageBox.Show(birthdayMessage.getMessage("Julian"));
         }
     }
 }
