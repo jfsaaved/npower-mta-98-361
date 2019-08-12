@@ -23,10 +23,18 @@ namespace mta_1._2_classes_and_object_first_class
             birthdayMessage = new HappyBirthday();
 
             String returnMessage;
-            birthdayMessage.MyProperty = "Julian";
-            returnMessage = birthdayMessage.MyProperty;
+            birthdayMessage.PresentCount = 5;
+
+            birthdayMessage.checkIfBirthday(dateTimePicker1.Value);
+
+            returnMessage = birthdayMessage.getMessage("Julian");
             MessageBox.Show(returnMessage);
             //MessageBox.Show(birthdayMessage.getMessage("Julian"));
+        }
+
+        private void DateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
