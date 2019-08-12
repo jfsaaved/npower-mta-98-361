@@ -1,0 +1,10 @@
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta-2.2-inheritance.csprojAssemblyReference.cache
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta_2._2_inheritance.Form1.resources
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta_2._2_inheritance.Properties.Resources.resources
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta-2.2-inheritance.csproj.GenerateResource.cache
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta-2.2-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\bin\Debug\mta-2.2-inheritance.exe.config
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\bin\Debug\mta-2.2-inheritance.exe
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\bin\Debug\mta-2.2-inheritance.pdb
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta-2.2-inheritance.exe
+C:\Users\DeKobe\source\repos\mta-2.2-inheritance\mta-2.2-inheritance\obj\Debug\mta-2.2-inheritance.pdb

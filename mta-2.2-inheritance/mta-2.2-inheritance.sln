@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mta-2.2-inheritance", "mta-2.2-inheritance\mta-2.2-inheritance.csproj", "{312B0606-141F-4D78-BABE-4748F0429FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312B0606-141F-4D78-BABE-4748F0429FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312B0606-141F-4D78-BABE-4748F0429FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312B0606-141F-4D78-BABE-4748F0429FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312B0606-141F-4D78-BABE-4748F0429FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72699282-8763-4296-BEE6-66A9E0A753A2}
+	EndGlobalSection
+EndGlobal
