@@ -1,0 +1,10 @@
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\bin\Debug\mta-2.1-string-manipulation.exe.config
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\bin\Debug\mta-2.1-string-manipulation.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\bin\Debug\mta-2.1-string-manipulation.pdb
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta-2.1-string-manipulation.csprojAssemblyReference.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta_2._1_string_manipulation.Form1.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta_2._1_string_manipulation.Properties.Resources.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta-2.1-string-manipulation.csproj.GenerateResource.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta-2.1-string-manipulation.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta-2.1-string-manipulation.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-2.1-string-manipulation\mta-2.1-string-manipulation\obj\Debug\mta-2.1-string-manipulation.pdb
