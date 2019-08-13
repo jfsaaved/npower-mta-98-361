@@ -1,0 +1,1 @@
+{"index.js":"var myList = [];\n\nmyList.push([\"a\",1]);\nmyList.push([\"a\",2]);\nmyList.push([\"a\",3]);\nmyList.push([\"a\",4]);\nmyList.push([\"a\",5]);"}
