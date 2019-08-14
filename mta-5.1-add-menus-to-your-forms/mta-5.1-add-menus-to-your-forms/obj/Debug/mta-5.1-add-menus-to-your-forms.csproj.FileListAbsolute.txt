@@ -1,0 +1,10 @@
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\bin\Debug\mta-5.1-add-menus-to-your-forms.exe.config
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\bin\Debug\mta-5.1-add-menus-to-your-forms.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\bin\Debug\mta-5.1-add-menus-to-your-forms.pdb
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta-5.1-add-menus-to-your-forms.csprojAssemblyReference.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta_5._1_add_menus_to_your_forms.Form1.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta_5._1_add_menus_to_your_forms.Properties.Resources.resources
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta-5.1-add-menus-to-your-forms.csproj.GenerateResource.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta-5.1-add-menus-to-your-forms.csproj.CoreCompileInputs.cache
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta-5.1-add-menus-to-your-forms.exe
+C:\Users\DeKobe\Desktop\MTA-Repos\mta-5.1-add-menus-to-your-forms\mta-5.1-add-menus-to-your-forms\obj\Debug\mta-5.1-add-menus-to-your-forms.pdb
