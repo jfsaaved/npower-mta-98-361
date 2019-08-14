@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mta-5.2-multiple-forms", "mta-5.2-multiple-forms\mta-5.2-multiple-forms.csproj", "{0367023B-636E-4A96-B0B3-C828107CFACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0367023B-636E-4A96-B0B3-C828107CFACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0367023B-636E-4A96-B0B3-C828107CFACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0367023B-636E-4A96-B0B3-C828107CFACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0367023B-636E-4A96-B0B3-C828107CFACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E893C479-EFC8-4D31-8E52-7E56F845447D}
+	EndGlobalSection
+EndGlobal
